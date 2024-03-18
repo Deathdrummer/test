@@ -1,1 +1,1 @@
-console.log('common text');
+console.log('ddr text');
