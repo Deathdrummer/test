@@ -1,1 +1,1 @@
-console.log('common text');
+console.log('Nikita text');
